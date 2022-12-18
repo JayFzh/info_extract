@@ -31,13 +31,13 @@
 
         贝叶斯定理的推导始于条件概率。条件概率可以定义为：在事件 B 发生的前提下，事件 A 发生的概率。数学上用 ![公式](https://www.zhihu.com/equation?tex=P%28A%7CB%29) 来表示该条件概率。条件概率 ![公式](https://www.zhihu.com/equation?tex=P%28A%7CB%29) 的数学定义为：
 
-                                        ![](img\equation.svg)
+                                        ![](./img/equation.svg)
 
         这个公式的白话解释为：“当 B 发生前提下 A 发生的概率”等于“A 和 B 同时发生的概率”除以“B 发生的概率”。将上式左右两边同时乘以 ![[公式]](https://www.zhihu.com/equation?tex=P%28B%29) 得到：![[公式]](https://www.zhihu.com/equation?tex=P%28B%29P%28A%7CB%29%3DP%28A%5Ccap+B%29)
 
     类似的，我们也可以求出 P(B|A)，即在 A 发生的前提下，B 发生的概率是多少。
 
-                                        ![](img\equation%20(1).svg)
+                                        ![](./img/equation%20(1).svg)
 
         同样，两边同时乘以 ![[公式]](https://www.zhihu.com/equation?tex=P%28A%29) ，并且由 ![[公式]](https://www.zhihu.com/equation?tex=P%28A%E2%88%A9B%29+%3D+P%28B%E2%88%A9A%29) ，得到：
 
@@ -45,7 +45,7 @@
 
 由此可知 ![[公式]](https://www.zhihu.com/equation?tex=P%28B%29P%28A%7CB%29+%3D+P%28A%29P%28B%7CA%29) 。这个结果也可以写作如下形式，即大名鼎鼎的**贝叶斯定理（Bayes rule）**：
 
-                                         ![](img\equation%20(2).svg)
+                                         ![](./img/equation%20(2).svg)
 
 * 朴素贝叶斯
 
@@ -55,27 +55,27 @@
 
         利用贝叶斯定理， ![[公式]](https://www.zhihu.com/equation?tex=P%28C%3Dc_k%7C%5Cbf+X%29) 可以写作：
 
-                                ![](img\equation%20(3).svg)
+                                ![](./img/equation%20(3).svg)
 
         由于对有所的 ![[公式]](https://www.zhihu.com/equation?tex=P%28C%3Dc_k%7C%5Cmathbf+X%29) 来说，上式右侧的分母都相同（和 ![[公式]](https://www.zhihu.com/equation?tex=C) 的取值无关），因此我们只需要根据训练集数据来估计所有的 ![[公式]](https://www.zhihu.com/equation?tex=P%28%5Cmathbf+X%7CC%3Dc_k%29) 以及所有的 ![[公式]](https://www.zhihu.com/equation?tex=P%28C%3Dc_k%29) 即可。但为了实现这个目标，若特征空间的维度 ![[公式]](https://www.zhihu.com/equation?tex=n+%3D+30) ，需要估计超过 30 亿个参数。
 
 因为在求解 ![[公式]](https://www.zhihu.com/equation?tex=P%28%5Cmathbf+X%7CC%3Dc_k%29) 时，我们考虑的是 ![[公式]](https://www.zhihu.com/equation?tex=%5Cmathbf+X+%3D+%5C%7Bx_1%2C+x_2%2C+%E2%80%A6%2C+x_n%5C%7D) 在 ![[公式]](https://www.zhihu.com/equation?tex=C+%3D+c_k) 这个条件下的**条件联合分布**，这大大增加了待估计的参数的个数。为了解决这个问题，朴素贝叶斯在求解 ![[公式]](https://www.zhihu.com/equation?tex=P%28%5Cmathbf+X%7CC%3Dc_k%29) 时做了一个非常强的假设 —— **条件独立性（conditional independence）**。**它的意思是在给定的类别** ![[公式]](https://www.zhihu.com/equation?tex=C+%3D+c_k) **下，不同维度特征的取值之间是相互独立的。**比如令 ![[公式]](https://www.zhihu.com/equation?tex=X_1) 和 ![[公式]](https://www.zhihu.com/equation?tex=X_2) 代表 ![[公式]](https://www.zhihu.com/equation?tex=n) 维里面的两个维度，则 ![[公式]](https://www.zhihu.com/equation?tex=P%28X_1%3Dx_1%7CC%3Dc_k%29) 的概率与 ![[公式]](https://www.zhihu.com/equation?tex=X_2) 的取值无关，即：
 
-![](img\equation%20(4).svg)
+![](./img/equation%20(4).svg)
 
         **在朴素贝叶斯中，我们仅仅假设特征之间满足条件独立性，而非一般的独立性。**在条件独立性假设下，反复利用条件概率的定义，最终可以写为：
 
-![](img\equation%20(5).svg)
+![](./img/equation%20(5).svg)
 
 * 贝叶斯分类器
 
         对于特征向量 ![[公式]](https://www.zhihu.com/equation?tex=%5Cbf+X) 和类别 ![[公式]](https://www.zhihu.com/equation?tex=C) ，利用贝叶斯定理和条件独立性的假设，写出每个 ![[公式]](https://www.zhihu.com/equation?tex=C+%3D+c_k) 的条件概率：
 
-![](img\equation%20(6).svg)
+![](./img/equation%20(6).svg)
 
         接下来使用训练集数据，估计出所有的 ![[公式]](https://www.zhihu.com/equation?tex=P%28C%3Dc_k%29) 以及 ![[公式]](https://www.zhihu.com/equation?tex=P%28X_i%3Dx_i%7CC%3Dc_k%29) 即可，而无需考虑上式中的分母，因为它和 ![[公式]](https://www.zhihu.com/equation?tex=C) 的取值无关。对于新的待分类样本，使用它的特征向量取值对每个 ![[公式]](https://www.zhihu.com/equation?tex=c_k) 求出 ![[公式]](https://www.zhihu.com/equation?tex=P%28C%3Dc_k%29+%C3%97+%5Cprod_i+P%28X_i%3Dx_i%7CC%3Dc_k%29) ，并比较这些值中最大的，就可以确定这个新样本的分类：
 
-![](img\equation%20(7).svg)
+![](./img/equation%20(7).svg)
 
 #### 二、实验过程
 
@@ -132,7 +132,7 @@ def features(movie, type):
  print("\n分类器的准确性:", nltk.classify.util.accuracy(classifier, features_test))
 ```
 
-![](img\图片1.png)
+![](./img/图片1.png)
 
         完整代码如下：
 
@@ -210,7 +210,7 @@ def analyze(reviews, classifier):
     return ans, real_score
 ```
 
-![](img\图片2.png)
+![](./img/图片2.png)
 
 * 准确度以及召回率
 
@@ -225,25 +225,25 @@ def analyze(reviews, classifier):
 
         所有的预测正确（正类负类）的占总的比重。
 
-![](img\equation%20(8).svg)
+![](./img/equation%20(8).svg)
 
 ###### **召回率**
 
         即正确预测为正的占全部实际为正的比例。召回率(Recall) 是针对原样本而言的，其含义是在实际为正的样本中被预测为正样本的概率。高的召回率意味着可能会有更多的误检，但是会尽力找到每一个应该被找到的对象。
 
-![](img\equation%20(9).svg)
+![](./img/equation%20(9).svg)
 
 ###### **精确率**
 
         也叫查准率，即正确预测为正的占全部预测为正的比例。精确率代表对正样本结果中的预测准确程度，准确率则代表整体的预测准确程度，包括正样本和负样本。分母是预测到的正类，精确率的提出是让模型的现有预测结果尽可能不出错。
 
-![](img\equation%20(10).svg)
+![](./img/equation%20(10).svg)
 
 ###### **F-Score：召回率与精确率的博弈**
 
         精确率和召回率互相影响，理想状态下肯定追求两个都高，但是实际情况是两者相互“制约”：**追求精确率高，则召回率就低；追求召回率高，则通常会影响精确率**。我们当然希望预测的结果精确率越高越好，召回率越高越好， 但事实上这两者在某些情况下是矛盾的。这样就需要综合考虑它们，最常见的方法就是F-score。
 
-![](img\equation%20(11).svg)
+![](./img/equation%20(11).svg)
 
         我们对所进行分析的数据集进行了手动标注，通过比对程序分析结果从而计算出各项指标。
 
@@ -267,7 +267,7 @@ def analyze(reviews, classifier):
     print("召回率： ",float(TP)/float(TP+FN))
 ```
 
-![](img\图片4.png)
+![](./img/图片4.png)
 
 ![补一个结果   准确率]
 
@@ -319,7 +319,7 @@ class LanguageProcessor(object):
 
 >         杰卡德距离(Jaccard Distance) 是用来衡量两个集合差异性的一种指标。
 > 
-> ![](img\2022021012233755.png)
+> ![](./img/2022021012233755.png)
 
         我们以句子序号为点的编号，相似度为相应两点之间的权重，添加到前边定义的Graph中。然后就是最重要的通过PageRank算法对图进行链接分析，句子的取舍将取决于分析结果。简单地说，PageRank将计算出每个句子的重要性（与其相似句子的个数或相似度较高）。
 
@@ -329,7 +329,7 @@ class LanguageProcessor(object):
 > 
 >         设一个有向图，结点 ![[公式]](https://www.zhihu.com/equation?tex=A) ， ![[公式]](https://www.zhihu.com/equation?tex=B) ， ![[公式]](https://www.zhihu.com/equation?tex=C) 和 ![[公式]](https://www.zhihu.com/equation?tex=D) 表示网页，结点之间的有向边表示网页之间的超链接，边上的权值表示网页之间随机跳转的概率。假设有一个浏览者，在网上随机游走。如果浏览者在网页 ![[公式]](https://www.zhihu.com/equation?tex=A) ，则下一步以 ![[公式]](https://www.zhihu.com/equation?tex=1%2F3) 的概率转移到网页 ![[公式]](https://www.zhihu.com/equation?tex=B) ， ![[公式]](https://www.zhihu.com/equation?tex=C) 和 ![[公式]](https://www.zhihu.com/equation?tex=D) 。如果浏览者在网页 ![[公式]](https://www.zhihu.com/equation?tex=B) ，则下一步以 ![[公式]](https://www.zhihu.com/equation?tex=1%2F2) 的概率转移到网页 ![[公式]](https://www.zhihu.com/equation?tex=A) 和 ![[公式]](https://www.zhihu.com/equation?tex=D) 。如果浏览者在网页 ![[公式]](https://www.zhihu.com/equation?tex=C) ，则下一步以概率 ![[公式]](https://www.zhihu.com/equation?tex=1) 转移到网页 ![[公式]](https://www.zhihu.com/equation?tex=A) 。如果浏览者在网页 ![[公式]](https://www.zhihu.com/equation?tex=D) ，则下一步以 ![[公式]](https://www.zhihu.com/equation?tex=1%2F2) 的概率转移到网页 ![[公式]](https://www.zhihu.com/equation?tex=B) 和 ![[公式]](https://www.zhihu.com/equation?tex=C) 。
 > 
-> ![](img\v2-5672c6391bf3c11c7252199881bcd576_720w.jpg)
+> ![](./img/v2-5672c6391bf3c11c7252199881bcd576_720w.jpg)
 > 
 >         直观上，一个网页，如果指向该网页的超链接越多，随机跳转到该网页的概率也就越高，该网页的PageRank值就越高，这个网页也就越重要。一个网页，如果指向该网页的PageRank值越高，随机跳转到该网页的概率也就越高，该网页的PageRank值就越高，这个网页也就越重要。PageRank值依赖于网络的拓扑结构，一旦网络的拓扑(连接关系)确定，PageRank值就确定。
 > 
@@ -425,7 +425,7 @@ def get_text_list(text_list, emo_list, path):
 sentences = nltk.sent_tokenize(text_name)
 ```
 
-![4](img\4.png)
+![4](./img/4.png)
 
 #### 分词
 
@@ -436,7 +436,7 @@ sentences = nltk.sent_tokenize(text_name)
 tokenized_sentences = [nltk.word_tokenize(sentence) for sentence in sentences]
 ```
 
-![5](img\5.png)
+![5](./img/5.png)
 
 #### 标注
 
@@ -447,7 +447,7 @@ tokenized_sentences = [nltk.word_tokenize(sentence) for sentence in sentences]
 tagged_sentences = [nltk.pos_tag(sentence) for sentence in tokenized_sentences]
 ```
 
-![6](img\6.png)
+![6](./img/6.png)
 
 #### 命名实体识别
 
@@ -458,7 +458,7 @@ tagged_sentences = [nltk.pos_tag(sentence) for sentence in tokenized_sentences]
 ne_chunked_sents = [nltk.ne_chunk(tagged) for tagged in tagged_sentences]
 ```
 
-![7](img\7.png)
+![7](./img/7.png)
 
 #### 信息抽取
 
@@ -540,17 +540,17 @@ for sent in tokenized_sentences:
 
 ​		在文本框中输入影评信息，点击infoExtract按钮即可进行影评关系抽取，测试结果如下：
 
-![1](img\1.png)
+![1](./img/1.png)
 
 #### 对多文本的信息提取
 
 ​			点击choose file按钮进行选择数据文件，选择结束后会显示所选文件的路径，点击infoExtract按钮进行信息抽取；
 
-![2](img\2.png)
+![2](./img/2.png)
 
 ​			多文本的信息抽取结果信息写在log.txt文件中
 
-![3](img\3.png)
+![3](./img/3.png)
 
 
 
