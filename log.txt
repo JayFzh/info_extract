@@ -1,0 +1,130 @@
+
+Sat May 28 14:27:39 2022
+正确率： 0.5
+召回率： 0.5
+
+Sat May 28 14:27:58 2022
+
+Sat May 28 14:28:09 2022
+
+Sat May 28 14:33:56 2022
+
+Sun May 29 11:04:03 2022
+COMMENT: This is the second film I've seen of Ida Lupino as a director after 53's the hitch-hiker. I think this one was a better film then that one. This one has a girl who is about to get married and she is then sexually assaulted and doesn't like everyone looking and talking about her so she runs away and and is taken in by a family. I think Leonard Maltin's review is right only to give it 2 and 1/2 stars.The main character Mr. is so great that I can not wait to recommend this moive to you!
+
+Abstract: This is the second film I've seen of Ida Lupino as a director after 53's the hitch-hiker. I think this one was a better film then that one. I think Leonard Maltin's review is right only to give it 2 and 1/2 stars.The main character Mr. is so great that I can not wait to recommend this moive to you!
+Triplet: 
+Lead or Performer: Leonard Maltin
+Organization: Ida Lupino
+GPE: --
+Positive review: great 
+Negative review: assaulted 
+Emotional tendency: pos
+Reliability: 0.85
+
+正确率： 0.5
+召回率： 0.5
+
+Sun May 29 11:04:46 2022
+COMMENT: This is one of those films that you watch with a group of people. You will have the best time. It's really, really bad, like Showgirls bad but without the quality of Showgirls.<br /><br />You've got the best mix of bad actors, bad director and bad script here. Everything that can possible be wrong that can make for an entertaining evening, you have here. The first being the tag line is "a bunch of teenagers..." These people are as much "teenagers" as my grandmother.<br /><br />The director has zero sense of suspense or tension. The 30 year old "teenagers" are standing around and the "monster" comes out and attacks and this pretty much happens throughout the movie when the monsters are revealed. There is no suspense building up to this or surprise or anything. It's more like when you were kids pretending to be chased by monsters and just kind of made up stuff as you went. And when I use the word "monsters" I exaggerate. More like a couple guys in Halloween masks bought at the .99 cent store.<br /><br />There is no doubt this script was spun off in a couple days, no rewrites and I can only imagine how bad and poorly formatted it looked on the page because it was clearly written by an amateur with no clue. It's another example of one of the bad things about this day and age: anyone can make a movie.<br /><br />But of course the best bad thing about this film is the acting. It's as bad as you can get. There isn't one person in this who has the slightest skill at acting and the lead is the absolute worst. He delivers every line in this monotone manner without any expression and you have to wonder how someone this bad could possible get a part in any movie, no matter who he knows. When he had to "cry" when his girlfriend was killed, it was one of the funniest scenes I've ever seen in a movie. Watching these people reciting some of the awful dialog is very very funny. But when the black guy said "tell her...tell her...I love her..." before his death scene, there was a huge laugh among our group. Funny, funny stuff.<br /><br />My only hope is this movie gets bad enough ratings to take its place where it belongs: in the IMDb lowest rating 100 movies. We can do it, folks!<br /><br />PS. Is it any surprise that the one "great" comment this movie got in here was from someone in Virginia (who has one comment, only on this movie and nothing else). And guess where the movie was made? Virginia. I've said it before and I'll say it again: people who work on the movie should NOT be allowed to comment on it.The best thing that hit me about Far Cry was its scenes of talents.
+
+Abstract: It's really, really bad, like Showgirls bad but without the quality of Showgirls.<br /><br />You've got the best mix of bad actors, bad director and bad script here. It's another example of one of the bad things about this day and age: anyone can make a movie.<br /><br />But of course the best bad thing about this film is the acting. I've said it before and I'll say it again: people who work on the movie should NOT be allowed to comment on it.The best thing that hit me about Far Cry was its scenes of talents.
+Triplet: 
+Lead or Performer: Far Cry
+Organization: Showgirls
+GPE: Virginia
+Positive review: kind great laugh love funniest best 
+Negative review: death killed bad worst 
+Emotional tendency: neg
+Reliability: 0.8316666666666666
+
+正确率： 0.5
+召回率： 0.5
+
+Sun May 29 21:10:37 2022
+COMMENT: When the film began, I was shocked to see it was filmed using a cheap video camera! In fact, the camera shakes and looks worse than the average home movie. Even direct to DVD films should have production values better than this! Heck, a large percentage of the home videos uploaded to YouTube have better production values! All too often, the film seriously appears to be made by sticking the camera on a tripod and turning it on--with no camera person! Closeups and anything resembling camera-work are absent in some scenes where they might have worked and in others there are too many or poorly framed closeups. Yecch! <br /><br />The film is about two gay men who want to become married. As if was made almost a decade ago, their only option was marrying in Vermont--times have definitely changed. However, the recent acceptance of gay marriage cannot in any way be attributed to this film--if anything, it set the gay marriage supporters back instead of helping as the movie stinks and never really tries to seriously address the issue. According to the film, religious people are one-dimensional idiots who carry Bibles EVERYWHERE and shoot people as well as wives who have gay husbands are narrow-minded when they learn their spouses have been living a lie--go figure. I'm sure glad it gives an honest chance to both sides on the issue! <br /><br />The bottom line--nothing about the film shows any professionalism at all and I even hesitate to call this a film. It's more like a home movie and doesn't even merit a listing on IMDb or even inclusion on IMDb's Bottom 100 list of the worst rated films of all time. The acting is horrible, the writing is horrible, the direction (if there even is any) is horrible, the camera-work is horrible and the plot is horrible. It's a home movie!! There is nothing positive I can say about this in any way except that it makes the films of Ed Wood seem like Oscar contenders in comparison and I am sure the ghost of Mr. Wood is smiling every time someone watches this mess! <br /><br />I don't care if you are gay or straight--this film is not worth your time and I don't know how they managed to create DVDs of it. I assume one of the actors burns them on his home computer during his free time! Seriously, this gives new meaning to the word 'bad'!<br /><br />By the way, if the one lady in the film WAS a real lawyer, wouldn't the ability to read be an important prerequisite?! I'm just sayin'.<br /><br />Finally, with gay marriage being such a serious and important topic, can't we have a film that's BETTER than THIS that addresses the issue?! This one, sadly, only invites laughter.Brendan Gleeson is smart person who has a great will.
+
+Abstract: <br /><br />The bottom line--nothing about the film shows any professionalism at all and I even hesitate to call this a film. <br /><br />I don't care if you are gay or straight--this film is not worth your time and I don't know how they managed to create DVDs of it. I'm just sayin'.<br /><br />Finally, with gay marriage being such a serious and important topic, can't we have a film that's BETTER than THIS that addresses the issue?!
+Triplet: 
+Lead or Performer: Bibles
+Organization: IMDb
+GPE: Heck
+Positive review: positive honest great free 
+Negative review: 'bad horrible worst 
+Emotional tendency: neg
+Reliability: 0.835
+
+正确率： 0.5
+召回率： 0.5
+
+Sun May 29 21:12:15 2022
+COMMENT: 'Intervention' has helped me with my own addictions and recovery. I'm a middle-aged married father of two. I'm quite functional in my personal and professional life. Still, I have pain from my past that I use addictions to soothe, and issues from which I am slowly recovering. When these addicts and their families share their lives with me, they help me to improve my life and my relationship with my family.<br /><br />The show, unlike many others, digs into the past of the addict and reveals events that probably caused their addiction. Many of us suffer because it's too scary to go back and do, as Alice Miller says, "the discovery and emotional acceptance of the truth in the individual and unique history of our childhood." The show deserves a lot of credit for at least getting this process started. This digging is painful and difficult, but worth it. So much coverage of addiction -- fictional and non-fictional -- seems to ignore the underlying issues. Often it's assumed that the addict just one day started to shoot up or whatever for fun or pleasure or self-interest, and now they can't stop. Not so: addictions are about killing pain. I can relate to the different events and hardships in people's lives. There are common themes, and surprising exceptions. Many addicts have suffered miserable abuse. Some kids simply respond badly to divorce. To those who think that addiction is an over-reaction to a hardship, I would just say that different people respond differently. Although some kids handle divorce well, others, like Cristy in the show, "collapse in a heap on the floor" and have their lives forever changed by the event.<br /><br />For example, last night's counselor said that pretty young Andrea seeks validation from men. She strips for cash for a 75-year old neighbor and lets men abuse her. Sound familiar to anyone? The series is filled with information that we can use to understand our own motivations and make adjustments to our lives. Often it's those of us with smaller issues who suffer the longest. As they say, even a stopped watch is right twice a day, but a slow watch can go undetected for quite a while, until it's made your life miserable.<br /><br />To the producers: Thank you for making the show, for digging into the past, for the follow-ups. Also, the graphics, the format, and the theme music are brilliant.<br /><br />To the addicts: thank you for your courage to share. Whether or not you have helped yourself, you have helped me.The first thing that struck me about Karen was its brutality and unflinching scenes of violence, which set in right from the word GO This movie was so frustrating.
+
+Abstract: Still, I have pain from my past that I use addictions to soothe, and issues from which I am slowly recovering. When these addicts and their families share their lives with me, they help me to improve my life and my relationship with my family.<br /><br />The show, unlike many others, digs into the past of the addict and reveals events that probably caused their addiction. To those who think that addiction is an over-reaction to a hardship, I would just say that different people respond differently.
+Triplet: 
+Lead or Performer: Alice Miller
+Organization: --
+GPE: Cristy
+Positive review: pleasure brilliant. fun 
+Negative review: brutality abuse killing pain suffer violence 
+Emotional tendency: pos
+Reliability: 0.8726666666666667
+
+正确率： 0.5
+召回率： 0.5
+
+Mon May 30 10:30:11 2022
+COMMENT: This is one of those films that you watch with a group of people. You will have the best time. It's really, really bad, like Showgirls bad but without the quality of Showgirls.<br /><br />You've got the best mix of bad actors, bad director and bad script here. Everything that can possible be wrong that can make for an entertaining evening, you have here. The first being the tag line is "a bunch of teenagers..." These people are as much "teenagers" as my grandmother.<br /><br />The director has zero sense of suspense or tension. The 30 year old "teenagers" are standing around and the "monster" comes out and attacks and this pretty much happens throughout the movie when the monsters are revealed. There is no suspense building up to this or surprise or anything. It's more like when you were kids pretending to be chased by monsters and just kind of made up stuff as you went. And when I use the word "monsters" I exaggerate. More like a couple guys in Halloween masks bought at the .99 cent store.<br /><br />There is no doubt this script was spun off in a couple days, no rewrites and I can only imagine how bad and poorly formatted it looked on the page because it was clearly written by an amateur with no clue. It's another example of one of the bad things about this day and age: anyone can make a movie.<br /><br />But of course the best bad thing about this film is the acting. It's as bad as you can get. There isn't one person in this who has the slightest skill at acting and the lead is the absolute worst. He delivers every line in this monotone manner without any expression and you have to wonder how someone this bad could possible get a part in any movie, no matter who he knows. When he had to "cry" when his girlfriend was killed, it was one of the funniest scenes I've ever seen in a movie. Watching these people reciting some of the awful dialog is very very funny. But when the black guy said "tell her...tell her...I love her..." before his death scene, there was a huge laugh among our group. Funny, funny stuff.<br /><br />My only hope is this movie gets bad enough ratings to take its place where it belongs: in the IMDb lowest rating 100 movies. We can do it, folks!<br /><br />PS. Is it any surprise that the one "great" comment this movie got in here was from someone in Virginia (who has one comment, only on this movie and nothing else). And guess where the movie was made? Virginia. I've said it before and I'll say it again: people who work on the movie should NOT be allowed to comment on it.The best thing that hit me about Far Cry was its scenes of talents.
+
+Abstract: It's really, really bad, like Showgirls bad but without the quality of Showgirls.<br /><br />You've got the best mix of bad actors, bad director and bad script here. It's another example of one of the bad things about this day and age: anyone can make a movie.<br /><br />But of course the best bad thing about this film is the acting. I've said it before and I'll say it again: people who work on the movie should NOT be allowed to comment on it.The best thing that hit me about Far Cry was its scenes of talents.
+Triplet: 
+Lead or Performer: Far Cry
+Organization: Showgirls
+GPE: Virginia
+Positive review: laugh funniest best kind great love 
+Negative review: worst killed bad death 
+Emotional tendency: neg
+Reliability: 0.8316666666666666
+
+
+Mon May 30 18:22:30 2022
+COMMENT: OK, just what the HELL is all this supposed to mean??? Halloween 6 (let's just call it that, OK?) is, without a doubt, the most CONFUSING film in the series (and from what I've heard, seeing the original "producers cut" doesn't sound like it makes things any less bewildering than the "official" release). What a mess.<br /><br />This isn't a really bad film, as some have said. It has its scary scenes and some rather intense moments - it just DOESN'T MAKE ANY SENSE! Don't tell me that Michael was "engineered" from the beginning to be evil and kill and destroy, and blah blah blah. It was bad enough when they turned Michael into Jamie Lee Curtis' brother (just so they had an excuse to keep her in the second film) - this is too much.<br /><br />It would seem this is another case of the creators of the film trying to be "too smart" by coming up with a new premise that will shock and impress us all. Bad move, guys. We're not looking for an explanation of why Michael kills, so please don't try and feed us this crap. Show me Michael looking menacing and killing a bunch of people. Show me Dr. Loomis trying to track him down and, as always, coming up just short. Don't waste (what turned out to be) the last performance of Donald Pleasance by telling me (in the most confusing way possible) that Michael was "created" by some cult from hell and that his "seed" will be passed on to another and... oh, brother.<br /><br />Halloween 6 has its moments, don't get me wrong, and we all know there have been FAR worse sequels than this (Hellraiser, anyone?) so get what you can out of it (the scene toward the end of the film with Michael charging down a deep red corridor is particularly effective) and try to ignore the screwball plot. Hopefully one day we can all see the "producer's cut" and maybe get the chance to make (a bit) more sense out of all of this. Till then, this will have to do...<br /><br />-FTMUdo Kier is smart person who has a great will.
+
+Abstract: It was bad enough when they turned Michael into Jamie Lee Curtis' brother (just so they had an excuse to keep her in the second film) - this is too much.<br /><br />It would seem this is another case of the creators of the film trying to be "too smart" by coming up with a new premise that will shock and impress us all. We're not looking for an explanation of why Michael kills, so please don't try and feed us this crap. Don't waste (what turned out to be) the last performance of Donald Pleasance by telling me (in the most confusing way possible) that Michael was "created" by some cult from hell and that his "seed" will be passed on to another and... oh, brother.<br /><br />Halloween 6 has its moments, don't get me wrong, and we all know there have been FAR worse sequels than this (Hellraiser, anyone?)
+Triplet: 
+Lead or Performer: Michael
+Organization: HELL
+GPE: Bad
+Positive review: great 
+Negative review: kill destroy evil killing kills HELL Bad bad hell 
+Emotional tendency: pos
+Reliability: 0.8533333333333334
+
+
+Mon May 30 18:23:06 2022
+COMMENT: That reviewers liked this movie surprises me. The plot is a muddle. The characters are wooden. Michael Bowen spends most of the film spying on the other characters and misjudging all of them. No one has any redeeming quality or point-of-interest. This is not an edgy work. It is not imaginative. It is not ironic. It is no clever. There is nothing straight forward about this tedious work. That is missed theatrical release is not surprise. That the "This Network" airs it diminishes that venue. I definitely recommend turning to a rerun of the Garden Smart show on PBS or even a good informational if you encountered this mess on late night television. If you encounter it on daytime television, take a long walk. Even if you walk in smog, you will feel better not having suffered through this shambles. Life is short. This movie is long.The first thing that struck me about Woody Allen was its brutality and unflinching scenes of violence, which set in right from the word GO This movie was so frustrating.
+
+Abstract: That reviewers liked this movie surprises me. The characters are wooden. That the "This Network" airs it diminishes that venue.
+Triplet: 
+Lead or Performer: Michael
+Organization: Bowen
+GPE: Life
+Positive review: --
+Negative review: brutality violence 
+Emotional tendency: neg
+Reliability: 0.8833333333333333
+
+
+Mon May 30 18:23:32 2022
+COMMENT: I'm a huge Steven Seagal fan. Hell, I probably weigh as much as he does although I don't have the street cred to sport the frizzy-mullet-ponytail. Having stated my own bias and affection for America's favorite corpulent stage and screen hero, it is with a heavy heart that I must declare this to be his worst movie ever. I'm not sure he could make a movie any worse than this.<br /><br />In his defense the major problems with this film seem to occur in post-production. It's painfully obvious that this movie was supposed to have a different storyline. That results in woeful voiceovers in which Steve's voice doesn't nearly sync up with that of the dubbed voice. The editing is pisspoor and overall this starts bad, gets even worse, and by the end you'll wish you had rewatched The Da Vinci Code instead. Yes, it's that bad.<br /><br />After this I don't know what to expect from Steve. My friends still laugh at me for listening to his CDs. Is it time I start checking out some of the Van Damme direct to DVD nutty logs? If you are tempted to watch this movie, rip your eyeballs out and flush them down the toilet. A lifetime of darkness is better than 89 minutes of this.The best thing that hit me about John Lithgows was its scenes of talents.
+
+Abstract: I'm a huge Steven Seagal fan. I'm not sure he could make a movie any worse than this.<br /><br />In his defense the major problems with this film seem to occur in post-production. Yes, it's that bad.<br /><br />After this I don't know what to expect from Steve.
+Triplet: 
+Lead or Performer: Steve
+Organization: Da Vinci Code
+GPE: Hell
+Positive review: affection laugh hero best 
+Negative review: worst bad. bad Hell painfully 
+Emotional tendency: pos
+Reliability: 0.96
+
